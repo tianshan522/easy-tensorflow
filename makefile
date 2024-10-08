@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -std=c++11 -O0 -g
+CFLAGS = -std=c++17 -O0 -g
 
 AR = ar 
 AFLAGS =-rc
